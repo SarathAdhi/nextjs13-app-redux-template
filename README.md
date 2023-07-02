@@ -1,4 +1,8 @@
-## Nextjs 13 App directory with Redux for State management
+# Nextjs 13 App directory with Redux for State management
+
+#### [Open in Web Editor](https://github.dev/SarathAdhi/nextjs13-app-redux-template)
+
+<br />
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
